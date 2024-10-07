@@ -1,152 +1,144 @@
 *{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.hero{
-    text-align: center;
-    padding: 0px;
-    background-color: #1a3056;
-    color: white;
-    background-image: 
-    url(masthead-map-bg\ \(1\).jpg);
+.done{
+    width: 100%;
+    height: 100vh;
+    background-image: url(masthead-map-bg\ \(1\).jpg);
     background-size: cover;
-    background-position:center;
-    background-repeat: no-repeat;
+    background-position: center;
+    margin: none;
+    padding: 0px;
 }
 
-body{
-    font-family: 'Times New Roman', Times, serif;
-    background-color: whitesmoke;
-    color: black;
-}
-.h1{
+.done1{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
     display: flex;
-    text-size-adjust: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 120px;
+    margin-left: 255;
+    cursor: pointer;
+    color: white;
+}
+
+.done1 ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    
+}
+
+.done1 ul li a{
+    color: white;
+    
+}
+
+.done2{
+   width: 25% 50%;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 50%;
+     
+    top: 50%;
+    
+   font-size: 24px;
     text-align: center;
-    padding-right: 25%;
+    color: white;
 }
 
-header{
-    background-color: #0f1c3f;
-    padding: 50px;
-    font-size: larger;
-    height: 100px;
+.auth{
+    padding: 5px;
+    margin-top: 10px;
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    border-radius: 25px;
+}
+.auth1{
+    padding: 5px;
+    margin-top: 10px;
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+    border-radius: 25px;
+}
+.done3{
+    background-color: rgb(45, 26, 133);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 420px;
 }
 
-.navbar{
+
+
+.tab{
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+}
+.done3{
+    width: 60% 80%;
+    height: 400;
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 30%;
+    color: white;
+     
+    top: 50%;
+    
+   
+    text-align: center;
+}
+   
+.tabs{
     display: flex;
     justify-content: space-between;
-    align-items: center;
-}
-
-.navbar .logo h1{
-   color: white;
-   font-size: 25px;
-}
-
-.navbar .nav-links ul{
-    list-style-type: none;
-    display: flex;
-}
-
-.navbar .nav-links ul li{
-    margin: 0 15px;
-}
-
-.navbar .nav-links ul li a{
     color: white;
-    text-decoration: none;
-    font-size: 16px;
+    margin-top: 10px;
+
 }
 
-.auth-buttons button{
+.search bar{
+    margin-bottom: 50px;
+    box-sizing: 50px;
+    margin-top: 10px;
     margin-left: 10px;
-    padding: 10px 15px;
-    border: none;
-    border=redius: 5px;
+
 }
 
-.register-btn {
-    background-color: #ff5a5f;
-    color: white;
-}
-
-.login-btn{
-    background-color: white;
-    color: #0f1c3f;
-}
-
-
-
-.hero h2{
-    font-size: 32px;
-    margin-bottom: 15px;
-    tex
-}
-
-.hero p{
-    font-size: 18px;
-    margin-bottom: 25px;
-}
-
-.hero-buttons button{
-    margin: 0 10px;
+button{
     padding: 10px 20px;
+    background-color: #00aaff;
     border: none;
     border-radius: 5px;
-    background-color: skyblue;
     color: white;
+    cursor: pointer;
+    margin-top: 10px;
 }
 
-.search-bar{
-    text-align: center;
-    padding: 50px;
-    background-color: whitesmoke;
-}
-
-.search-barh3{
-    font-size: 28px;
-    margin-bottom: 20px;
-}
-
-.search-options ul{
-    list-style-type: none;
-    display: flex;
-    margin-bottom: 20px;
-}
-.search-options ul li {
-    margin: 0 15px;
-}
-
-.search-options ul li a{
-    text-decoration: none;
-    font-size: 16 px;
-    color: skyblue;
-}
-
-.search-field{
-    display: flex;
-    justify-content: center;
-}
-
-.search-field input{
-    width: 400px;
-    padding: 10px;
-    border-radius: 5px 0 0 5px;
-    border: 1px solid whitesmoke;
-}
-
-.search-field button{
-    padding: 10px 15px;
-    background-color: skyblue;
+input [type="text"]{
+    padding: 30px;
+    background-color: none;
+    border-radius: 5px;
     color: white;
-    border: none;
-    border-radius: 0 15px 15px 0;
+    cursor: pointer;
 }
 
-footer{
-    padding: 15px;
-    background-color: ;
+.structured-search{
+    margin-top: 10px;    
 }
+
+..structured-search{
+    color: #00aaff;
+}
+
