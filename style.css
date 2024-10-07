@@ -9,6 +9,7 @@
     height: 100vh;
     background-image: url(masthead-map-bg\ \(1\).jpg);
     background-size: cover;
+<<<<<<< HEAD
     background-position: center;
     margin: none;
     padding: 0px;
@@ -18,6 +19,18 @@
     width: 85%;
     margin: auto;
     padding: 35px 0;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 50px;
+}
+.h1{
+>>>>>>> fc63d4c52e881784de98471f6fb14bbc7e4517a3
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -138,8 +151,6 @@ input [type="text"]{
     margin-top: 10px;    
 }
 
-..structured-search{
+.structured-search{
     color: #00aaff;
 }
-
-us
