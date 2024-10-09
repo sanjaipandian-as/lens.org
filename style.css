@@ -151,20 +151,252 @@ h4{
 }
 
 p1{
+    padding-top: 5px;
+    font-size: 16px;
+    padding-left: 14%;
+    padding-top: 5%;
+
+}
+
+.A{
+    padding-top: 10px;
+    padding-left: 25%;
+    font-size: 24px;
+}
+
+p2{
+    padding-top: 10px;
+    font-size: 16px;
     padding-left: 20%;
-    font-size: 15px;
+}
     
+
+.one{
+    float: right;
+    width: 20%;
+}
+
+.a1{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    padding-top: 3%;
+   
+    padding: 20px;
+}
+
+.btn1{
+    padding-left: 30%;
+    padding-top: 10px;
+}
+
+.B{
+    padding-top: 10px;
+    padding-left: 25%;
+    font-size: 24px;
+}
+
+p3{
+    padding-top: 10px;
+    font-size: 16px;
+    padding-left: 20%;
+}
+    
+
+.two{
+    float: left;
+    width: 10%;
+}
+
+.a2{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    padding-top: 3%;
+    
+    padding: 20px;
+}
+
+.btn2{
+    padding-left: 45%;
+    padding-top: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
 }
 
 h5{
-    padding-left: 15%;
     font-size: 24px;
-    padding-top: 10px;
 }
-p2{
-    padding-left: 5px;
-    font-size: 15px;
-    margin-right: 50%;
-    padding-right: 50%;
+
+.C{
+    padding-top: 10px;
+    padding-left: 25%;
+    font-size: 24px;
+}
+p4{
+    padding-top: 10px;
+    font-size: 16px;
+    padding-left: 20%;
+}
     
+
+.three{
+    float: right;
+    width: 15%;
+}
+
+.a3{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    padding-top: 3%;
+    
+    padding: 20px;
+}
+
+.btn3{
+    padding-left: 30%;
+    padding-top: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+
+h5{
+    font-size: 24px;
+}
+
+.D{
+    padding-top: 10px;
+    padding-left: 25%;
+    font-size: 24px;
+}
+
+p5{
+    padding-top: 10px;
+    font-size: 16px;
+    padding-left: 20%;
+}
+    
+
+.four{
+    float: left;
+    width: 20%;
+}
+
+.a4{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    padding-top: 3%;
+    
+    padding: 20px;
+}
+
+.btn4{
+    padding-left: 45%;
+    padding-top: 10px;
+    border-radius: 25px;
+    background-color: white;
+    color: black;
+}
+
+.E{
+    padding-top: 10px;
+    padding-left: 25%;
+    font-size: 24px;
+}
+p6{
+    padding-top: 10px;
+    font-size: 16px;
+    padding-left: 20%;
+}
+    
+
+.five{
+    float: right;
+    width: 20%;
+}
+
+.a5{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    padding-top: 3%;
+    
+    padding: 20px;
+}
+
+.btn5{
+    padding-left: 30%;
+    padding-top: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+
+h5{
+    font-size: 24px;
+}
+
+.F{
+    padding-top: 10px;
+    padding-left: 25%;
+    font-size: 24px;
+}
+
+p7{
+    padding-top: 10px;
+    font-size: 16px;
+    padding-left: 20%;
+}
+    
+
+.six{
+    float: left;
+    width: 20%;
+}
+
+.a6{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    padding-top: 3%;
+    
+    padding: 20px;
+}
+
+.btn6{
+    padding-left: 45%;
+    padding-top: 5%;
+    border-radius: 25px;
+    background-color: white;
+    color: black;
+}
+
+.a7{
+    position: relative;
+    
+    padding-left: 40%;
+    font-size: 24px;
+}
+
+p8{
+    padding-top: 10px;
+    width: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+button{
+   
+    border-radius: 10px 40px;
+    background-color: darkblue;
+}
+    
+.btn7{
+    padding-left: 45%;
+    padding-top: 10px;
+    border-radius: 25px;
 }
